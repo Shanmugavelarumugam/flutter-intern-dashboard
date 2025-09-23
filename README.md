@@ -31,12 +31,14 @@ Built with clean UI, dummy data, and designed to work on **both mobile and web**
 ### 📱 Mobile View  
 | Login | Signup | Dashboard | Leaderboard | Announcements | 
 |-------|--------|-----------|-------------|---------------|
-| ![Mobile Login](assets/mobile/login.png) | ![Mobile Signup](assets/mobile/signup.png) | ![Mobile Dashboard](assets/mobile/dashboard.png) | ![Mobile Leaderboard](assets/mobile/leader.png) | ![Mobile Announcements](assets/mobile/announcement.png) 
+| <img src="assets/mobile/login.png" width="220"/> | <img src="assets/mobile/signup.png" width="220"/> | <img src="assets/mobile/dashboard.png" width="220"/> | <img src="assets/mobile/leader.png" width="220"/> | <img src="assets/mobile/announcement.png" width="220"/> |
+ 
 
 ### 💻 Web View  
 | Login | Signup | Dashboard | Leaderboard | Announcements |
 |-------|--------|-----------|-------------|---------------|
-| ![Web Login](assets/web/login.png) | ![Web Signup](assets/web/signup.png) | ![Web Dashboard](assets/web/dashboard.png) | ![Web Leaderboard](assets/web/leader.png) | ![Web Announcements](assets/web/announcement.png) |
+| <img src="assets/web/login.png" width="1000"/> | <img src="assets/web/signup.png" width="1000"/> | <img src="assets/web/dashboard.png" width="1000"/> | <img src="assets/web/leader.png" width="1000"/> | <img src="assets/web/announcement.png" width="1000"/> |
+
 
 ---
 
