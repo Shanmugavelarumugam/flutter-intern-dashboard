@@ -7,7 +7,7 @@
 <p align="center">
   <img src="assets/mobile/leader.png" alt="Mobile Screenshot" width="250"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/web/leader.png" alt="Web Screenshot" width="400"/>
+  <img src="assets/web/leader.png" alt="Web Screenshot" width="800"/>
 </p>
 
 A simple **responsive Flutter app** simulating a fundraising intern portal.  
@@ -32,13 +32,30 @@ Built with clean UI, dummy data, and designed to work on **both mobile and web**
 | Login | Signup | Dashboard | Leaderboard | Announcements | 
 |-------|--------|-----------|-------------|---------------|
 | <img src="assets/mobile/login.png" width="220"/> | <img src="assets/mobile/signup.png" width="220"/> | <img src="assets/mobile/dashboard.png" width="220"/> | <img src="assets/mobile/leader.png" width="220"/> | <img src="assets/mobile/announcement.png" width="220"/> |
- 
+
+---
 
 ### 💻 Web View  
-| Login | Signup | Dashboard | Leaderboard | Announcements |
-|-------|--------|-----------|-------------|---------------|
-| <img src="assets/web/login.png" width="1000"/> | <img src="assets/web/signup.png" width="1000"/> | <img src="assets/web/dashboard.png" width="1000"/> | <img src="assets/web/leader.png" width="1000"/> | <img src="assets/web/announcement.png" width="1000"/> |
 
+<p align="center">
+  <img src="assets/web/login.png" width="900"/>
+</p>
+
+<p align="center">
+  <img src="assets/web/signup.png" width="900"/>
+</p>
+
+<p align="center">
+  <img src="assets/web/dashboard.png" width="900"/>
+</p>
+
+<p align="center">
+  <img src="assets/web/leader.png" width="900"/>
+</p>
+
+<p align="center">
+  <img src="assets/web/announcement.png" width="900"/>
+</p>
 
 ---
 
